@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.alihanlar-cekici.com.tr/sitemap.xml
